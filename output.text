@@ -1,0 +1,14 @@
+
+Input: 
+1.00 1.00 1.00 1.00 1.00  
+
+Mask: 
+1.00 1.00 1.00  
+
+
+Output:  
+ 2.00   3.00   3.00   3.00   2.00   
+  
+Number of Blocks Created :2 
+  
+Number of Threads Per Block created in code: 3  
